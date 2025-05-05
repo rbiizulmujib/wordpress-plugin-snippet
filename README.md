@@ -24,7 +24,4 @@ Plugin ini menambahkan halaman admin di WordPress untuk menampilkan tabel transa
 3. **Isi Snippet:**
    - Judul: `Tabel Transaksi WooCommerce`
    - Code Type: **PHP Snippet**
-   - Paste seluruh kode berikut ke kolom kode:
-
-   ```php
-   (Paste seluruh kode dari plugin ini — termasuk add_menu_page dan fungsi ekspor)
+   - Paste seluruh kode dan simpan
